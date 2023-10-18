@@ -11,7 +11,7 @@ This website was built by a set of enthusiastic developers as part of the Sustai
   <img src="https://avatars3.githubusercontent.com/u/31291163?s=200&v=4" />
 </div>
 
-This repository contains source for Sustainable Education Foundation Website. [View Website](https://sefglobal.org/)
+This repository contains source for Sustainable Education Foundation Website. <a href="https://sefglobal.org/" target="_blank">View Website</a>
 
 ## SEF Group Pages and Other Projects 
 
